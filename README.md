@@ -1,4 +1,4 @@
-### Hi there 👋, <Eric Blanco/>
+### Hi there 👋, I am Eric Blanco and I am a Engineer and Computer Scientist and Bio informatik hobbyist.
 #### #Data Science #Machine Learning Data Manipulation Collective Architect {(information: disinformation)([sentiment analysis: positive attitude]), append.successful)passthrough _polarity)} System Design AWS Solutions Architect
 ![#Data Science #Machine Learning Data Manipulation Collective Architect {(information: disinformation)([sentiment analysis: positive attitude]), append.successful)passthrough _polarity)} System Design AWS Solutions Architect](https://avatars.githubusercontent.com/u/75046275?v=4)
 
