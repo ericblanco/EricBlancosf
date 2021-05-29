@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Eric Blanco and I am a Machine Learning Engineer, Computer Scientist and Bio-informatik hobbyist.
 #### #Data Science #Machine Learning Data Manipulation Collective Architect {(information: disinformation)([sentiment analysis: positive attitude]), append.successful)passthrough _polarity)} System Design AWS Solutions Architect
-![#Data Science #Machine Learning Data Manipulation Collective Architect {(information: disinformation)([sentiment analysis: positive attitude]), append.successful)passthrough _polarity)} System Design AWS Solutions Architect](https://avatars.githubusercontent.com/u/75046275?v=4)
+![#Data Science #Machine Learning Data Manipulation Collective Architect {(information: disinformation)([sentiment analysis: positive attitude]), append.successful)passthrough _polarity)} System Design AWS Solutions Architect](https://github.com/ericblanco/EricBlancosf/blob/main/PSFix_20210529_012908.jpeg?raw=true)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
