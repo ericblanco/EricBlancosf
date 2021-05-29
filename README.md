@@ -1,6 +1,6 @@
 ### Hi there 👋, Eric Blanco
 #### #Data Science #Machine Learning Data Manipulation Collective Architect {(information: disinformation)([sentiment analysis: positive attitude]), append.successful)passthrough _polarity)} System Design AWS Solutions Architect
-![#Data Science #Machine Learning Data Manipulation Collective Architect {(information: disinformation)([sentiment analysis: positive attitude]), append.successful)passthrough _polarity)} System Design AWS Solutions Architect](https://avatars.githubusercontent.com/u/75046275?s=64&v=4)
+![#Data Science #Machine Learning Data Manipulation Collective Architect {(information: disinformation)([sentiment analysis: positive attitude]), append.successful)passthrough _polarity)} System Design AWS Solutions Architect](https://github.com/ericblanco/ericblanco/blob/main/Eric%20Blanco%20Nice%20to%20meet%20you..png?raw=true)
 
 Experience building and leading teams of < 10 members with extensive technical experience. Over 6 years as a direct Technical lead.
 Expertise in applying machine learning to solve complex business problems in a production setting - ideally related to recommender systems and/or ad engines
