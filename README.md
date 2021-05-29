@@ -10,7 +10,7 @@ Software engineering fundamentals and the ability to write production code when 
 
 Skills: Python, AWS, TensorFlow, Hugging faces, BERT, Data Manipulations , Network Systems Architect
 
-- 🌱 I’m currently learning Rife Machine BioFrequencies. Merging of a PsuedoScience of the early 1900's with modernday Machine Learning https://www.spooky2.com/
+- 🌱 I’m currently learning Rife Machine BioFrequencies. Based on his study in the university, he started to develop Rife machine(the cancer cure) and the techniques from 1920. The theory of coordinative resonance with frequencies (aka, Rife machine) which he proved would kill microorganisms by electron transfer and internal stresses of pathogenic cells owing to electromagnetic and electrostatic forces. To prove this theory, he studied tetanus, typhoid, gonorrhea, syphilis, pneumonia, streptococci, tuberculosis, sarcoma, carcinoma, leprosy, polio, glanders, bubonic plague, influenza, herpes, cataracts, glaucoma, sinus, ulcers, and many other virus bacteria and fungi in his experiments.
 - 😄 Pronouns: I have a plug  
 - ⚡ Fun fact: I won a $50,000 watch last year 2020 
 
