@@ -23,7 +23,7 @@ Skills: Python, AWS, TensorFlow, Hugging faces, BERT, Data Manipulations , Netwo
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ericblanco&show_icons=2000&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ryo)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ericblanco)  
 
 ![GitHub metrics](https://metrics.lecoq.io/ericblanco)  
 
