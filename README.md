@@ -2,7 +2,7 @@
 #### #Data Science #Machine Learning Data Manipulation Collective Architect 
 ![#Data Science #Machine Learning Data Manipulation Collective Architect {(information: disinformation)([sentiment: positive attitude]), append.successful)passthrough _polarity)}](https://github.com/ericblanco/ericblanco/blob/main/Eric%20Blanco%20Nice%20to%20meet%20you..png?raw=true)
 
-Experience building and leading teams of < 10 members with extensive technical experience. Over 6 years as a direct Technical lead.
+Experience building and leading teams of < 10 members with extensive technical experience. 10 years as a direct Technical lead.
 Expertise in applying machine learning to solve complex business problems in a production setting - ideally related to recommender systems and/or ad engines
 Knowledge of a range of machine learning algorithms and techniques
 developing, architecting, or running ML/deep learning workloads on the AWS Cloud
