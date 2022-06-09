@@ -12,7 +12,7 @@ Skills: Python, AWS, TensorFlow, Hugging faces, BERT, Data Manipulations , Netwo
 
 - 🌱 I’m currently learning Rife Machine BioFrequencies. Based on Rife machine and the techniques from 1920. The theory of coordinative resonance with frequencies (aka, Rife machine) which can kill microorganisms by electron transfer and internal stresses of pathogenic cells owing to electromagnetic and electrostatic forces Along  merging of Modern day machine learning and I am creating quit a dataset.  
 - 😄 Pronouns: I AM   
-- ⚡ Fun fact: I won a watch last year 2020 
+- ⚡ Fun fact: I won a watch in 2020 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ericblanco)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ericblancosf/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](ericblanco.com)  
