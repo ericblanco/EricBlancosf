@@ -3,14 +3,6 @@
 ![#Data Science #Machine Learning Data Manipulation Collective Architect
 (https://github.com/ericblanco/ericblanco/blob/main/Eric%20Blanco%20Nice%20to%20meet%20you..png?raw=true)
 
-Experience building and leading teams of < 10 members with extensive technical experience. 
-Applying machine learning to solve complex business problems in a production setting - ideally related to recommender systems and/or ad engines in finance and life sciences.
-Knowledge of a range of machine learning algorithms and techniques
-developing, architecting, or running ML/deep learning workloads on the AWS Cloud
-Software engineering fundamentals and the ability to write production code when needed.
-
-Skills: Spacy, Python, AWS, TensorFlow, Hugging faces, BERT, Data Manipulations , Cloud Systems Architect
-
 - 🌱 I’m currently learning Rife Machine BioFrequencies. Based on Rife machine and the techniques from 1920. The theory of coordinative resonance with frequencies (aka, Rife machine) which can kill microorganisms by electron transfer and internal stresses of pathogenic cells owing to electromagnetic and electrostatic forces Along  merging of Modern day machine learning.  
 - ⚡ Fun fact: I won a watch in 2020 
 
